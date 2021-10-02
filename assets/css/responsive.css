@@ -89,6 +89,9 @@
 }
 /* Mobile */
 @media (max-width: 739px) {
+    .header__logo{
+        padding:0;
+    }
     .navbar{
         padding: 24px 32px;
         position: fixed;
